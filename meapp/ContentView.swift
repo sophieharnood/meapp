@@ -25,7 +25,7 @@ struct ContentView: View {
                         Button("About Sophie") {
                             born = "Born: September 20, 2008"
                             favFood = "FavFood: Pasta"
-                            sportsIPlay = "Sport: Volleyball"
+                            sportsIPlay = "Sport: Volleyballllll"
                             vballposition = "           -Position: Middle Blocker"
                         }.font(.headline)
                         
